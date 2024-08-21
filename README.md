@@ -11,4 +11,4 @@ mdominicorobin24/mdominicorobin24 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<script src="https://njump.me/embed/mdominicorobin24@nip05.social>" />
+<script src="https://njump.me/embed/mdominicorobin24@nip05.social >" />
